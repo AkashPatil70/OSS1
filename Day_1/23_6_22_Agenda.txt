@@ -4,23 +4,7 @@ List of modules learned so far:
 	DS----------------------functions, data Structure
 	Web Technologies--------HTML, CSS, Javascript, jQuery, Ajax, Bootstrap,json
 				Node JS
-				Express JS
-
-	OS/Linux----------------Operating System concepts
-		                Linux Commands
-				basics of shell scripting
-
-	DBT (mysql, mongodb)----DBMS/ RDBMS
-				SQL, DDL, DML
-				MySQL
-				Normalization
-				Constraints
-				stored procedures
-				triggers
-				Transactions
-				NoSQL Database (Mongo DB)
-	Core Java---------------( 100 hours sessions)
-	C#-----------------------25 hours theory and practical
+ 
 
 				installing java JRE
 				installing Eclipse
