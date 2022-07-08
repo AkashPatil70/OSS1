@@ -49,5 +49,11 @@ namespace HelloWorldApp
                 this.lastName + " "+ this.birthDate + " "+
                 this.contactNumber + " " + this.email;
         }
+        public override string ToString2()
+        {
+            return base.ToString() + " : "+ this.firstName + " "+ 
+                this.lastName + " "+ this.birthDate + " "+
+                this.contactNumber + " " + this.email;
+        }
     }
 }
