@@ -1,0 +1,102 @@
+
+
+List of modules learned so far:
+	DS----------------------functions, data Structure
+	Web Technologies--------HTML, CSS, Javascript, jQuery, Ajax, Bootstrap,json
+				Node JS
+				Express JS
+
+	OS/Linux----------------Operating System concepts
+		                Linux Commands
+				basics of shell scripting
+
+	DBT (mysql, mongodb)----DBMS/ RDBMS
+				SQL, DDL, DML
+				MySQL
+				Normalization
+				Constraints
+				stored procedures
+				triggers
+				Transactions
+				NoSQL Database (Mongo DB)
+	Core Java---------------( 100 hours sessions)
+	C#-----------------------25 hours theory and practical
+
+				installing java JRE
+				installing Eclipse
+				Java workspace
+				JDK
+				JVM
+				Value types and reference types
+				Boxing and UnBoxing
+				OOPS
+				Classes and Objects
+				Exception handling
+				Static, Strings
+				Wrapper Classes
+				Packages 
+				interfaces
+				inheritance & Polymorphism
+				Method overloading
+				File IO (STreams)
+				Collection Framework ( Arrays, lists) 
+				Serialization and Deseriaztion
+				Multithreading
+				
+
+
+	Agenda:
+		Introduction to Visual Studio .Net IDE( Integrated Developers Enviornment)
+		C# language Concepts
+		.NET Framework Programming
+
+
+
+	Introduction to Visual Studio .Net IDE( Integrated Developers Enviornment)
+		1. Create Blank Solution
+		2. Add new Visual Studio  Console Application Project to existing Solution.
+		3. Start writing C# Language syntax Code for Application Development.
+		4. Add new structure Point in Project.
+		5. Add new class Person in Project.
+		6. Add Data members to Person class.
+		7. Add default and parameterized constructor to Person Class.
+		8. Add destructor to Person class.
+		9. Override ToString method to Person class.
+		10. Add static variable count to Person class.
+		11. Add static method GetCount to Person class.
+		12. Create Object of Person class
+		13. Display details of Person object.
+		14. Test different types in Main method ( var, string, boolean, struct Point)
+		15. Build Solution
+		16. Execute application.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
