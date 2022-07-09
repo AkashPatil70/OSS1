@@ -11,6 +11,7 @@ namespace Day_12
         //properties
         public string FirstName { get; set; }
         public string LastName { get; set; }
+        public string newprop { get; set; }
 
         public Person() //default/parameterless constructor
         {

@@ -12,6 +12,7 @@
 
    //this is a comment
             //Property Initializer Syntax
+            //comment added newly
             Person thePerson3 = new Person
             {
                 FirstName = "Raj",
