@@ -54,6 +54,9 @@ namespace TestApp
             Console.WriteLine("Sales Employees Salary = {0}", salesSalary);
 
             Console.ReadLine();
+            
+            //Added by 08 
+            console.writeline("hello world");
 
         }
     }
