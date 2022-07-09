@@ -1,4 +1,4 @@
-﻿using System;
+﻿gusing System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,8 +9,14 @@ using HumanResource;
 
 namespace TestApp
 {
-    internal class Program
+    internal class Program//Edit by aman
     {
+        static bool practice()
+        {
+            bool status = false;
+            return status;
+            
+        }
         static void Main(string[] args)
         {
             //Person person = new Person();
@@ -18,7 +24,7 @@ namespace TestApp
 
             Person thePerson2 = new Person();
             thePerson2.FirstName = "Sachin";
-            thePerson2.LastName = "Tendulkar";
+            thePerson2.LastName = "";
             thePerson2.Email = "sachin.tendulkar@gmail.com";
             thePerson2.Age = 50;
             thePerson2.ContactNumber = "988457845";
@@ -31,6 +37,17 @@ namespace TestApp
                 LastName = "Malhotra",
                 Age = 30,
                 Email = "raj.malhotra@gmail.com",
+                ContactNumber = "988345754"
+            };
+
+
+            //Property Initializer Syntax
+            Person thePerson4 = new Person
+            {
+                FirstName = "Avanti",
+                LastName = "Kamble",
+                Age = 24,
+                Email = "avanti.kamble@gmail.com",
                 ContactNumber = "988345754"
             };
 
@@ -55,7 +72,7 @@ namespace TestApp
 
             Console.ReadLine();
             
-            //Added by 08 
+            //Added by 08 Akshay
             console.writeline("hello world");
 
         }
