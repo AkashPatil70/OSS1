@@ -1,4 +1,4 @@
-﻿using System;
+﻿gusing System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,6 +11,12 @@ namespace TestApp
 {
     internal class Program
     {
+        static bool practice()
+        {
+            bool status = false;
+            return status;
+            
+        }
         static void Main(string[] args)
         {
             //Person person = new Person();
@@ -18,7 +24,7 @@ namespace TestApp
 
             Person thePerson2 = new Person();
             thePerson2.FirstName = "Sachin";
-            thePerson2.LastName = "Tendulkar";
+            thePerson2.LastName = "";
             thePerson2.Email = "sachin.tendulkar@gmail.com";
             thePerson2.Age = 50;
             thePerson2.ContactNumber = "988457845";
