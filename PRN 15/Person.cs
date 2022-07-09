@@ -10,6 +10,7 @@ namespace Day_12
     {
         //properties
         //Aaquib 001
+        //LAB 1
         //Aman 009
         //Akshay 008
 

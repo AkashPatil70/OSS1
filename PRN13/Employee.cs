@@ -13,5 +13,7 @@ namespace Business_Object
         public string LastNme { get; set; }
         public string Department { get; set; }
         public double Salary { get; set; }
+        //Added by 13
+        public double Depertment { get; set; }
     }
 }
