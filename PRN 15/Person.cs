@@ -10,7 +10,7 @@ namespace Day_12
     {
         //properties
         //Aaquib 001
-
+        //LAB 1
         public string FirstName { get; set; }
         public string LastName { get; set; }
         
