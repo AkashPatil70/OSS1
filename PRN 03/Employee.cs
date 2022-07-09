@@ -21,5 +21,6 @@ namespace UnitTest
     public static void display()
     {
         console.writeLine("Hello");
+        console.writeLine("Welcome1");
     }
 }
