@@ -9,7 +9,7 @@ using HumanResource;
 
 namespace TestApp
 {
-    internal class Program
+    internal class Program//Edit by aman
     {
         static bool practice()
         {
@@ -41,6 +41,17 @@ namespace TestApp
             };
 
 
+            //Property Initializer Syntax
+            Person thePerson4 = new Person
+            {
+                FirstName = "Avanti",
+                LastName = "Kamble",
+                Age = 24,
+                Email = "avanti.kamble@gmail.com",
+                ContactNumber = "988345754"
+            };
+
+
             Point startPoint = new Point(56, 76);
             Point endPoint = new Point(100, 34);
 
@@ -61,7 +72,7 @@ namespace TestApp
 
             Console.ReadLine();
             
-            //Added by 08 
+            //Added by 08 Akshay
             console.writeline("hello world");
 
         }
