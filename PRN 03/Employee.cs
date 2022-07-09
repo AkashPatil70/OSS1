@@ -17,4 +17,17 @@ namespace UnitTest
         public string ContactNumber { get; set; }
         public string Email { get; set; }
     }
+
+    public static void display()
+    {
+        console.writeLine("Hello");
+        console.writeLine("Welcome1");
+    }
+
+    //Added by PRN13
+    public static void Welcome()
+    {
+        console.writeLine("Welcome");
+        console.writeLine("Users");
+    }
 }
