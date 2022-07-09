@@ -11,6 +11,12 @@ namespace TestApp
 {
     internal class Program
     {
+        static bool practice()
+        {
+            bool status = false;
+            return status;
+            
+        }
         static void Main(string[] args)
         {
             //Person person = new Person();
