@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\PRN 15",
+    "\\PRN13",
+    "\\Public"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\PRN 15\\Person.cs",
   "PreviewInSolutionExplorer": false
 }

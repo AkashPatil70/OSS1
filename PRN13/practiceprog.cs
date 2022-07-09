@@ -22,9 +22,17 @@
                 Email = "raj.malhotra@gmail.com",
                 ContactNumber = "988345754"
             };
+    Person thePerson4 = new Person
+    {
+        FirstName = "Rajesh",
+        LastName = "Malhotra",
+        Age = 30,
+        Email = "raj.malhotra@gmail.com",
+        ContactNumber = "988345754"
+    };
 
 
-            Point startPoint = new Point(56, 76);
+    Point startPoint = new Point(56, 76);
             Point endPoint = new Point(100, 34);
 
             DateTime joinDate1 = new DateTime(2007, 4, 23, 9, 23, 34);

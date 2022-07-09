@@ -23,4 +23,11 @@ namespace UnitTest
         console.writeLine("Hello");
         console.writeLine("Welcome1");
     }
+
+    //Added by PRN13
+    public static void Welcome()
+    {
+        console.writeLine("Welcome");
+        console.writeLine("Users");
+    }
 }
