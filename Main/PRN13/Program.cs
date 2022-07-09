@@ -41,6 +41,17 @@ namespace TestApp
             };
 
 
+            //Property Initializer Syntax
+            Person thePerson4 = new Person
+            {
+                FirstName = "Avanti",
+                LastName = "Kamble",
+                Age = 24,
+                Email = "avanti.kamble@gmail.com",
+                ContactNumber = "988345754"
+            };
+
+
             Point startPoint = new Point(56, 76);
             Point endPoint = new Point(100, 34);
 
