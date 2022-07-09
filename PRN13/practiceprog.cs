@@ -12,6 +12,7 @@
 
    //this is a comment
             //Property Initializer Syntax
+            // AMAn prn 009
             Person thePerson3 = new Person
             {
                 FirstName = "Raj",
