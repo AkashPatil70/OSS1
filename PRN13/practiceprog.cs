@@ -13,6 +13,7 @@
    //this is a comment
             //Property Initializer Syntax
             // AMAn prn 009
+            //AJAY prn 006
             Person thePerson3 = new Person
             {
                 FirstName = "Raj",
