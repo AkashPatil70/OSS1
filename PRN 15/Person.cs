@@ -3,12 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//using System.Data;
 namespace Day_12
 {
     public class Person
     {
-        //properties
+        //properties 
         //Aaquib 001
         //LAB 1
         //Aman 009
