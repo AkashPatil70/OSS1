@@ -10,7 +10,7 @@
             thePerson2.Age = 50;
             thePerson2.ContactNumber = "988457845";
 
-
+   //this is a comment
             //Property Initializer Syntax
             Person thePerson3 = new Person
             {
