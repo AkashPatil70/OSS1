@@ -9,7 +9,7 @@ using HumanResource;
 
 namespace TestApp
 {
-    internal class Program
+    internal class Program//Edit by aman
     {
         static bool practice()
         {
@@ -72,7 +72,7 @@ namespace TestApp
 
             Console.ReadLine();
             
-            //Added by 08 
+            //Added by 08 Akshay
             console.writeline("hello world");
 
         }
