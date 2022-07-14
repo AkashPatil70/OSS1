@@ -18,8 +18,8 @@ app.get('/knowit',function(req,res){
 	
 });
 
-app.listen(9000,function(){
-	console.log("exp server started at 9000");	
+app.listen(9500,function(){
+	console.log("exp server started at 9500");	
 });
 
 
