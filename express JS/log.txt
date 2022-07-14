@@ -1,0 +1,36 @@
+var http = require("http");
+var url = require("url");
+var fs = require('fs');
+
+http.createServer(function(req, res){
+
+var p=url.parse(req.url,true);
+if(p!='/favicon.ico')
+{
+     var cdate=new Date().getTime();
+     var str="Request received for "+p+" at time"+cdate.toString()+"\n";
+ 
+    file.appendFile('mylog.txt', str, function(error)
+    {
+         if(!error)
+       {
+	     console.log("request is logged in log file.");	
+         res.write("request has been made");
+         res.end();
+         }
+		
+    }
+
+
+
+
+    
+}
+
+
+
+
+
+
+});
+server.listen(9000,function(){console.log("server at 9000") });
