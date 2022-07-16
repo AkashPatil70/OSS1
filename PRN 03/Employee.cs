@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//Added by PRN 15
 namespace UnitTest
 {
     [Serializable]
@@ -22,5 +22,12 @@ namespace UnitTest
     {
         console.writeLine("Hello");
         console.writeLine("Welcome1");
+    }
+
+    //Added by PRN13
+    public static void Welcome()
+    {
+        console.writeLine("Welcome");
+        console.writeLine("Users");
     }
 }

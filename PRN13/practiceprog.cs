@@ -10,10 +10,10 @@
             thePerson2.Age = 50;
             thePerson2.ContactNumber = "988457845";
 
-   //this is a comment
+             //this is a comment
             //Property Initializer Syntax
-            // AMAn prn 009
-            //AJAY prn 006
+            //comment added newly
+            
             Person thePerson3 = new Person
             {
                 FirstName = "Raj",
